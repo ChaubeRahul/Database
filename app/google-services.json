@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "713106872834",
+    "firebase_url": "https://database-1ad31.firebaseio.com",
+    "project_id": "database-1ad31",
+    "storage_bucket": "database-1ad31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713106872834:android:837c6da229c8f19e",
+        "android_client_info": {
+          "package_name": "com.example.rahul.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713106872834-8plai79uia9t1oeoqpvfle081okqn5v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxA2du0P_PIDmLk6PRUdyHk79I8afUnzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
